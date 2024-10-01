@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Upload Files to S3</title>
+</head>
+<body>
+<h2>Upload Files to S3</h2>
+
+<!-- File Input and Upload Button -->
+<input type="file" id="fileInput">
+<button id="uploadButton">Upload</button>
+
+<!-- Status message -->
+<p id="uploadStatus"></p>
+
+<!-- Download -->
+<button id="downloadButton">Download File</button>
+<p id="downloadStatus"></p>
+
+<script src="https://sdk.amazonaws.com/js/aws-sdk-2.1684.0.js"></script>
+<script src="index.js"></script>
+</body>
+</html>

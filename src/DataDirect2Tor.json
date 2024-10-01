@@ -1,0 +1,361 @@
+{
+  "Websites": [
+    {
+      "Website": "https://foxnews.com",
+      "Iterations": 100,
+      "Eth": "Home Network 1",
+      "Data": {
+        "Total Duration": 12545.862999999672,
+        "Resource Time": 2184.7240000003576,
+        "Redirect Time": 0,
+        "Worker Time": 1023.8680000002682,
+        "DNS Lookup": 0,
+        "TCP Handshake": 669.1860000000894,
+        "Request Time": 341.14299999967216,
+        "Typical RTT": 489.66200000047684,
+        "Response Time": 148.51900000080465,
+        "DOM Time": 7424.742999999672,
+        "DOM Content Load": 7.444000000059605,
+        "Load Event Time": 0.4100000001490116,
+        "Cache Time": 0,
+        "Transfer Size": 68903.75
+      }
+    },
+    {
+      "Website": "https://reddit.com",
+      "Iterations": 100,
+      "Eth": "Home Network 1",
+      "Data": {
+        "Total Duration": 3412.8320000003278,
+        "Resource Time": 2242.9659999991954,
+        "Redirect Time": 0,
+        "Worker Time": 1034.2539999999105,
+        "DNS Lookup": 0,
+        "TCP Handshake": 749.0040000012517,
+        "Request Time": 455.64899999961256,
+        "Typical RTT": 457.76699999973175,
+        "Response Time": 2.1180000001192094,
+        "DOM Time": 1150.7150000008942,
+        "DOM Content Load": 0.04199999958276748,
+        "Load Event Time": 0.010999999642372131,
+        "Cache Time": 0,
+        "Transfer Size": 1784
+      }
+    },
+    {
+      "Website": "https://wikipedia.com",
+      "Iterations": 100,
+      "Eth": "Home Network 1",
+      "Data": {
+        "Total Duration": 2125.1030000011624,
+        "Resource Time": 1698.1410000002384,
+        "Redirect Time": 0,
+        "Worker Time": 733.7150000010431,
+        "DNS Lookup": 0,
+        "TCP Handshake": 583.829999999851,
+        "Request Time": 338.1530000001192,
+        "Typical RTT": 378.7740000002086,
+        "Response Time": 40.62100000008941,
+        "DOM Time": 30.900000000596048,
+        "DOM Content Load": 0.9589999997615815,
+        "Load Event Time": 0,
+        "Cache Time": 0,
+        "Transfer Size": 19111
+      }
+    },
+    {
+      "Website": "https://apple.com",
+      "Iterations": 100,
+      "Eth": "Home Network 1",
+      "Data": {
+        "Total Duration": 7303.107000001371,
+        "Resource Time": 2155.160999999642,
+        "Redirect Time": 0,
+        "Worker Time": 976.959999999702,
+        "DNS Lookup": 0,
+        "TCP Handshake": 639.0029999992252,
+        "Request Time": 464.8339999985695,
+        "Typical RTT": 537.1279999998212,
+        "Response Time": 72.2940000012517,
+        "DOM Time": 2826.759999997914,
+        "DOM Content Load": 0.15,
+        "Load Event Time": 0.06200000107288361,
+        "Cache Time": 0,
+        "Transfer Size": 43060
+      }
+    },
+    {
+      "Website": "https://yelp.com",
+      "Iterations": 100,
+      "Eth": "Home Network 1",
+      "Data": {
+        "Total Duration": 2681.5139999985695,
+        "Resource Time": 1072.7060000002384,
+        "Redirect Time": 0,
+        "Worker Time": 1.1869999995827676,
+        "DNS Lookup": 0,
+        "TCP Handshake": 554.8690000000596,
+        "Request Time": 463.63499999940393,
+        "Typical RTT": 514.3010000002384,
+        "Response Time": 50.666000000834465,
+        "DOM Time": 1605.5489999997617,
+        "DOM Content Load": 0.08899999976158142,
+        "Load Event Time": 0.004999999701976776,
+        "Cache Time": 0,
+        "Transfer Size": 5676
+      }
+    },
+    {
+      "Website": "https://pinterest.com",
+      "Iterations": 100,
+      "Eth": "Home Network 1",
+      "Data": {
+        "Total Duration": 5473.691999999881,
+        "Resource Time": 2530.962999999523,
+        "Redirect Time": 0,
+        "Worker Time": 956.4939999985695,
+        "DNS Lookup": 0,
+        "TCP Handshake": 732.2140000021458,
+        "Request Time": 648.6739999979734,
+        "Typical RTT": 840.3739999994635,
+        "Response Time": 191.7000000014901,
+        "DOM Time": 2931.3690000009537,
+        "DOM Content Load": 0.03900000095367431,
+        "Load Event Time": 2.5940000000596046,
+        "Cache Time": 0,
+        "Transfer Size": 55150.17
+      }
+    },
+    {
+      "Website": "https://www.amazon.com/",
+      "Iterations": 100,
+      "Eth": "Home Network 1",
+      "Data": {
+        "Total Duration": 8117.400999999941,
+        "Resource Time": 1289.1580000001193,
+        "Redirect Time": 0,
+        "Worker Time": 1.092000000178814,
+        "DNS Lookup": 0,
+        "TCP Handshake": 574.4430000013112,
+        "Request Time": 501.545000000596,
+        "Typical RTT": 711.3230000004172,
+        "Response Time": 209.7779999998212,
+        "DOM Time": 5852.036000000834,
+        "DOM Content Load": 0.060999999642372134,
+        "Load Event Time": 13.27999999821186,
+        "Cache Time": 0,
+        "Transfer Size": 40986.9
+      }
+    },
+    {
+      "Website": "https://www.britannica.com/",
+      "Iterations": 100,
+      "Eth": "Home Network 1",
+      "Data": {
+        "Total Duration": 29934.824999999702,
+        "Resource Time": 1706.1030000013113,
+        "Redirect Time": 0,
+        "Worker Time": 1.1129999989271164,
+        "DNS Lookup": 0,
+        "TCP Handshake": 742.08,
+        "Request Time": 786.7489999988675,
+        "Typical RTT": 960.6510000014305,
+        "Response Time": 173.902000002563,
+        "DOM Time": 26510.34900000036,
+        "DOM Content Load": 0.17099999785423278,
+        "Load Event Time": 8.086999999284744,
+        "Cache Time": 0,
+        "Transfer Size": 26926.28
+      }
+    },
+    {
+      "Website": "https://www.cnn.com/",
+      "Iterations": 100,
+      "Eth": "Home Network 1",
+      "Data": {
+        "Total Duration": 10340.275999998152,
+        "Resource Time": 2848.774999997318,
+        "Redirect Time": 0,
+        "Worker Time": 1001.3549999979139,
+        "DNS Lookup": 0,
+        "TCP Handshake": 748.0320000004768,
+        "Request Time": 421.1810000023246,
+        "Typical RTT": 1097.3820000004769,
+        "Response Time": 676.2009999981523,
+        "DOM Time": 6140.361000001132,
+        "DOM Content Load": 0.8180000004172325,
+        "Load Event Time": 4.780999999940395,
+        "Cache Time": 0,
+        "Transfer Size": 574388.58
+      }
+    },
+    {
+      "Website": "https://www.ebay.com/",
+      "Iterations": 100,
+      "Eth": "Home Network 1",
+      "Data": {
+        "Total Duration": 5565.643999998271,
+        "Resource Time": 1723.8159999993443,
+        "Redirect Time": 0,
+        "Worker Time": 1.1909999990463256,
+        "DNS Lookup": 0,
+        "TCP Handshake": 743.3670000013709,
+        "Request Time": 563.7789999991655,
+        "Typical RTT": 977.1739999994636,
+        "Response Time": 413.395000000298,
+        "DOM Time": 2476.760000000596,
+        "DOM Content Load": 17.231999998688696,
+        "Load Event Time": 15.216000000834464,
+        "Cache Time": 0,
+        "Transfer Size": 99925.96
+      }
+    },
+    {
+      "Website": "https://www.nfl.com/",
+      "Iterations": 100,
+      "Eth": "Home Network 1",
+      "Data": {
+        "Total Duration": 30592.715000002085,
+        "Resource Time": 1165.6650000014902,
+        "Redirect Time": 0,
+        "Worker Time": 1.6800000014901162,
+        "DNS Lookup": 0,
+        "TCP Handshake": 709.1670000010729,
+        "Request Time": 365.4010000008345,
+        "Typical RTT": 451.79800000160935,
+        "Response Time": 86.39700000077487,
+        "DOM Time": 27963.037999998927,
+        "DOM Content Load": 0.1169999983906746,
+        "Load Event Time": 5.75200000077486,
+        "Cache Time": 0,
+        "Transfer Size": 14694.57
+      }
+    },
+    {
+      "Website": "https://www.linkedin.com/",
+      "Iterations": 100,
+      "Eth": "Home Network 1",
+      "Data": {
+        "Total Duration": 3116.3510000005363,
+        "Resource Time": 1257.9580000007152,
+        "Redirect Time": 0,
+        "Worker Time": 1.803000001013279,
+        "DNS Lookup": 0,
+        "TCP Handshake": 598.5110000008344,
+        "Request Time": 559.9790000003576,
+        "Typical RTT": 653.8780000013113,
+        "Response Time": 93.89900000095368,
+        "DOM Time": 1369.1060000017285,
+        "DOM Content Load": 0.2539999994635582,
+        "Load Event Time": 477.84500000059603,
+        "Cache Time": 0,
+        "Transfer Size": 19072.31
+      }
+    },
+    {
+      "Website": "https://www.target.com/",
+      "Iterations": 100,
+      "Eth": "Home Network 1",
+      "Data": {
+        "Total Duration": 5667.970000000298,
+        "Resource Time": 1275.4569999995829,
+        "Redirect Time": 0,
+        "Worker Time": 1.7509999978542328,
+        "DNS Lookup": 0,
+        "TCP Handshake": 613.7519999995827,
+        "Request Time": 479.61899999946354,
+        "Typical RTT": 656.2540000003577,
+        "Response Time": 176.63500000089408,
+        "DOM Time": 3402.942000001967,
+        "DOM Content Load": 0.27700000077486037,
+        "Load Event Time": 0.2850000008940697,
+        "Cache Time": 0,
+        "Transfer Size": 72906.07
+      }
+    },
+    {
+      "Website": "https://www.yahoo.com/",
+      "Iterations": 100,
+      "Eth": "Home Network 1",
+      "Data": {
+        "Total Duration": 9343.926000001431,
+        "Resource Time": 3494.1960000008344,
+        "Redirect Time": 0,
+        "Worker Time": 1786.762999999225,
+        "DNS Lookup": 0,
+        "TCP Handshake": 916.7520000001788,
+        "Request Time": 558.494999999702,
+        "Typical RTT": 788.4129999995232,
+        "Response Time": 229.91799999982118,
+        "DOM Time": 4763.440999999344,
+        "DOM Content Load": 6.082999999821186,
+        "Load Event Time": 3.4370000007748605,
+        "Cache Time": 0,
+        "Transfer Size": 84143.23
+      }
+    },
+    {
+      "Website": "https://www.fandom.com/",
+      "Iterations": 100,
+      "Eth": "Home Network 1",
+      "Data": {
+        "Total Duration": 6776.6490000000595,
+        "Resource Time": 1158.0090000012517,
+        "Redirect Time": 0,
+        "Worker Time": 1.1769999995827676,
+        "DNS Lookup": 0,
+        "TCP Handshake": 706.0809999999404,
+        "Request Time": 359.27899999946357,
+        "Typical RTT": 448.15699999958275,
+        "Response Time": 88.87800000011921,
+        "DOM Time": 3587.3860000011323,
+        "DOM Content Load": 0.05799999982118607,
+        "Load Event Time": 0.17299999862909318,
+        "Cache Time": 0,
+        "Transfer Size": 20994.52
+      }
+    },
+    {
+      "Website": "https://www.youtube.com/",
+      "Iterations": 100,
+      "Eth": "Home Network 1",
+      "Data": {
+        "Total Duration": 10950.55699999988,
+        "Resource Time": 1523.3969999977946,
+        "Redirect Time": 0,
+        "Worker Time": 1.157999999821186,
+        "DNS Lookup": 0,
+        "TCP Handshake": 676.009999999702,
+        "Request Time": 412.63399999916555,
+        "Typical RTT": 843.6319999971986,
+        "Response Time": 430.99799999803304,
+        "DOM Time": 6566.221999999285,
+        "DOM Content Load": 0.6059999999403953,
+        "Load Event Time": 2.696000000238419,
+        "Cache Time": 0,
+        "Transfer Size": 46561.71
+      }
+    },
+    {
+      "Website": "https://www.tiktok.com/",
+      "Iterations": 100,
+      "Eth": "Home Network 1",
+      "Data": {
+        "Total Duration": 11817.037000001668,
+        "Resource Time": 2090.7170000004767,
+        "Redirect Time": 1349.7660000002384,
+        "Worker Time": 1350.9109999999405,
+        "DNS Lookup": 0,
+        "TCP Handshake": 24.152000000178813,
+        "Request Time": 588.5900000008941,
+        "Typical RTT": 713.5040000012517,
+        "Response Time": 124.91400000035763,
+        "DOM Time": 8925.561999998092,
+        "DOM Content Load": 0.0710000017285347,
+        "Load Event Time": 2.2700000020861624,
+        "Cache Time": 0,
+        "Transfer Size": 40764.39
+      }
+    }
+  ]
+}

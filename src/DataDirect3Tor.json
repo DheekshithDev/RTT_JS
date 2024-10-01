@@ -1,0 +1,361 @@
+{
+  "Websites": [
+    {
+      "Website": "https://foxnews.com",
+      "Iterations": 100,
+      "Eth": "University Network RUWirelessSec",
+      "Data": {
+        "Total Duration": 14023.340000000893,
+        "Resource Time": 2343.1359999996425,
+        "Redirect Time": 0,
+        "Worker Time": 995.5980000007153,
+        "DNS Lookup": 0,
+        "TCP Handshake": 753.1310000008344,
+        "Request Time": 439.78600000083446,
+        "Typical RTT": 592.4339999997616,
+        "Response Time": 152.6479999989271,
+        "DOM Time": 9132.903000000417,
+        "DOM Content Load": 7.370000000596047,
+        "Load Event Time": 0.3070000007748604,
+        "Cache Time": 0,
+        "Transfer Size": 70045.56
+      }
+    },
+    {
+      "Website": "https://reddit.com",
+      "Iterations": 100,
+      "Eth": "University Network RUWirelessSec",
+      "Data": {
+        "Total Duration": 2661.9470000022648,
+        "Resource Time": 1759.8970000016689,
+        "Redirect Time": 0,
+        "Worker Time": 796.1880000004172,
+        "DNS Lookup": 0,
+        "TCP Handshake": 597.5229999992251,
+        "Request Time": 361.535,
+        "Typical RTT": 364.2540000009537,
+        "Response Time": 2.7190000009536743,
+        "DOM Time": 874.0389999973773,
+        "DOM Content Load": 0.060999999046325686,
+        "Load Event Time": 0.014000000953674317,
+        "Cache Time": 0,
+        "Transfer Size": 1786
+      }
+    },
+    {
+      "Website": "https://wikipedia.com",
+      "Iterations": 100,
+      "Eth": "University Network RUWirelessSec",
+      "Data": {
+        "Total Duration": 2921.9619999983906,
+        "Resource Time": 2007.5729999998211,
+        "Redirect Time": 0,
+        "Worker Time": 759.0689999988675,
+        "DNS Lookup": 0,
+        "TCP Handshake": 641.2950000014902,
+        "Request Time": 529.3389999994636,
+        "Typical RTT": 604.9130000007152,
+        "Response Time": 75.5740000012517,
+        "DOM Time": 85.6080000001192,
+        "DOM Content Load": 1.4139999988675118,
+        "Load Event Time": 0.023999999463558196,
+        "Cache Time": 0,
+        "Transfer Size": 19111
+      }
+    },
+    {
+      "Website": "https://apple.com",
+      "Iterations": 100,
+      "Eth": "University Network RUWirelessSec",
+      "Data": {
+        "Total Duration": 9476.826000001132,
+        "Resource Time": 2299.2700000020864,
+        "Redirect Time": 0,
+        "Worker Time": 1109.0680000025034,
+        "DNS Lookup": 0,
+        "TCP Handshake": 653.9509999999404,
+        "Request Time": 452.2119999992847,
+        "Typical RTT": 533.8730000004173,
+        "Response Time": 81.66100000113249,
+        "DOM Time": 3074.9630000001193,
+        "DOM Content Load": 0.16199999898672104,
+        "Load Event Time": 0.07600000023841857,
+        "Cache Time": 0,
+        "Transfer Size": 36699
+      }
+    },
+    {
+      "Website": "https://pinterest.com",
+      "Iterations": 100,
+      "Eth": "University Network RUWirelessSec",
+      "Data": {
+        "Total Duration": 6134.4,
+        "Resource Time": 2720.6909999987483,
+        "Redirect Time": 0,
+        "Worker Time": 1021.5559999984503,
+        "DNS Lookup": 0,
+        "TCP Handshake": 767.7519999966025,
+        "Request Time": 647.6209999990464,
+        "Typical RTT": 929.1309999984503,
+        "Response Time": 281.50999999940393,
+        "DOM Time": 3402.9460000011327,
+        "DOM Content Load": 0.04600000113248825,
+        "Load Event Time": 1.7809999996423722,
+        "Cache Time": 0,
+        "Transfer Size": 54914.67
+      }
+    },
+    {
+      "Website": "https://yelp.com",
+      "Iterations": 100,
+      "Eth": "University Network RUWirelessSec",
+      "Data": {
+        "Total Duration": 3771.4819999983906,
+        "Resource Time": 1282.827999998331,
+        "Redirect Time": 0,
+        "Worker Time": 126.46199999839068,
+        "DNS Lookup": 0,
+        "TCP Handshake": 656.3570000007749,
+        "Request Time": 444.3179999998212,
+        "Typical RTT": 497.5730000004172,
+        "Response Time": 53.25500000059605,
+        "DOM Time": 2311.0620000001786,
+        "DOM Content Load": 0.06799999892711639,
+        "Load Event Time": 0.08000000029802322,
+        "Cache Time": 0,
+        "Transfer Size": 8818.3
+      }
+    },
+    {
+      "Website": "https://www.amazon.com/",
+      "Iterations": 100,
+      "Eth": "University Network RUWirelessSec",
+      "Data": {
+        "Total Duration": 5507.972999998927,
+        "Resource Time": 1426.0409999996423,
+        "Redirect Time": 0,
+        "Worker Time": 1.1329999980330467,
+        "DNS Lookup": 0,
+        "TCP Handshake": 657.9290000009537,
+        "Request Time": 547.9749999982118,
+        "Typical RTT": 764.6459999996424,
+        "Response Time": 216.6710000014305,
+        "DOM Time": 3128.6010000002384,
+        "DOM Content Load": 0.06800000220537186,
+        "Load Event Time": 17.568999999463557,
+        "Cache Time": 0,
+        "Transfer Size": 52651.29
+      }
+    },
+    {
+      "Website": "https://www.britannica.com/",
+      "Iterations": 100,
+      "Eth": "University Network RUWirelessSec",
+      "Data": {
+        "Total Duration": 27852.246000000836,
+        "Resource Time": 1413.607999997735,
+        "Redirect Time": 0,
+        "Worker Time": 1.2530000001192092,
+        "DNS Lookup": 0,
+        "TCP Handshake": 558.3489999997615,
+        "Request Time": 722.0179999995231,
+        "Typical RTT": 851.437999997735,
+        "Response Time": 129.41999999821186,
+        "DOM Time": 23357.73799999833,
+        "DOM Content Load": 1.0080000001192093,
+        "Load Event Time": 9.421000005602837,
+        "Cache Time": 0,
+        "Transfer Size": 26233.85
+      }
+    },
+    {
+      "Website": "https://www.cnn.com/",
+      "Iterations": 100,
+      "Eth": "University Network RUWirelessSec",
+      "Data": {
+        "Total Duration": 28698.546999999286,
+        "Resource Time": 4050.6050000047685,
+        "Redirect Time": 0,
+        "Worker Time": 1074.1760000002384,
+        "DNS Lookup": 0,
+        "TCP Handshake": 754.4720000010728,
+        "Request Time": 383.11799999892713,
+        "Typical RTT": 2219.8100000011923,
+        "Response Time": 1836.6920000022649,
+        "DOM Time": 23000.90799999833,
+        "DOM Content Load": 0.8040000003576279,
+        "Load Event Time": 6.305999997258186,
+        "Cache Time": 0,
+        "Transfer Size": 579576.15
+      }
+    },
+    {
+      "Website": "https://www.ebay.com/",
+      "Iterations": 100,
+      "Eth": "University Network RUWirelessSec",
+      "Data": {
+        "Total Duration": 9112.938999999762,
+        "Resource Time": 1996.8889999979735,
+        "Redirect Time": 0,
+        "Worker Time": 1.2790000009536744,
+        "DNS Lookup": 0,
+        "TCP Handshake": 856.3430000013113,
+        "Request Time": 734.6169999974966,
+        "Typical RTT": 1136.977999995947,
+        "Response Time": 402.36099999845027,
+        "DOM Time": 4589.5079999989275,
+        "DOM Content Load": 19.317999997735022,
+        "Load Event Time": 17.636999998688697,
+        "Cache Time": 0,
+        "Transfer Size": 80249.44
+      }
+    },
+    {
+      "Website": "https://www.nfl.com/",
+      "Iterations": 100,
+      "Eth": "University Network RUWirelessSec",
+      "Data": {
+        "Total Duration": 46722.577000001074,
+        "Resource Time": 1054.4650000023842,
+        "Redirect Time": 0,
+        "Worker Time": 1.135,
+        "DNS Lookup": 0,
+        "TCP Handshake": 577.2569999980926,
+        "Request Time": 396.5680000001192,
+        "Typical RTT": 473.77099999964236,
+        "Response Time": 77.20299999952316,
+        "DOM Time": 43900.00300000727,
+        "DOM Content Load": 0.0670000022649765,
+        "Load Event Time": 3.6959999984502794,
+        "Cache Time": 0,
+        "Transfer Size": 14204.85
+      }
+    },
+    {
+      "Website": "https://www.linkedin.com/",
+      "Iterations": 100,
+      "Eth": "University Network RUWirelessSec",
+      "Data": {
+        "Total Duration": 3442.05999999702,
+        "Resource Time": 1659.8999999976159,
+        "Redirect Time": 0,
+        "Worker Time": 1.1009999972581863,
+        "DNS Lookup": 0,
+        "TCP Handshake": 861.0049999970198,
+        "Request Time": 687.4569999980927,
+        "Typical RTT": 795.3209999972582,
+        "Response Time": 107.86399999916553,
+        "DOM Time": 1617.0690000015497,
+        "DOM Content Load": 0.16000000298023223,
+        "Load Event Time": 159.0959999990463,
+        "Cache Time": 0,
+        "Transfer Size": 18620.2
+      }
+    },
+    {
+      "Website": "https://www.target.com/",
+      "Iterations": 100,
+      "Eth": "University Network RUWirelessSec",
+      "Data": {
+        "Total Duration": 7795.507999998331,
+        "Resource Time": 1763.7179999995233,
+        "Redirect Time": 0,
+        "Worker Time": 1.1089999985694885,
+        "DNS Lookup": 0,
+        "TCP Handshake": 614.3450000011921,
+        "Request Time": 975.0489999967814,
+        "Typical RTT": 1145.8450000011921,
+        "Response Time": 170.79600000441076,
+        "DOM Time": 5243.994999997616,
+        "DOM Content Load": 0.115,
+        "Load Event Time": 1.1969999998807908,
+        "Cache Time": 0,
+        "Transfer Size": 69788.59
+      }
+    },
+    {
+      "Website": "https://www.yahoo.com/",
+      "Iterations": 100,
+      "Eth": "University Network RUWirelessSec",
+      "Data": {
+        "Total Duration": 5010.3469999980925,
+        "Resource Time": 3654.5309999978545,
+        "Redirect Time": 0,
+        "Worker Time": 2308.452999998331,
+        "DNS Lookup": 0,
+        "TCP Handshake": 909.1840000003576,
+        "Request Time": 371.6530000001192,
+        "Typical RTT": 434.7380000013113,
+        "Response Time": 63.08500000119209,
+        "DOM Time": 375.3219999986887,
+        "DOM Content Load": 4.986000002622604,
+        "Load Event Time": 0.007000001668930053,
+        "Cache Time": 0,
+        "Transfer Size": 27642.22
+      }
+    },
+    {
+      "Website": "https://www.fandom.com/",
+      "Iterations": 100,
+      "Eth": "University Network RUWirelessSec",
+      "Data": {
+        "Total Duration": 6355.952000005245,
+        "Resource Time": 1056.3700000023841,
+        "Redirect Time": 0,
+        "Worker Time": 1.1059999996423722,
+        "DNS Lookup": 0,
+        "TCP Handshake": 617.7670000010729,
+        "Request Time": 346.64699999928473,
+        "Typical RTT": 434.9759999996424,
+        "Response Time": 88.32900000035762,
+        "DOM Time": 3232.262999998331,
+        "DOM Content Load": 0.045,
+        "Load Event Time": 0.2110000056028366,
+        "Cache Time": 0,
+        "Transfer Size": 20931.25
+      }
+    },
+    {
+      "Website": "https://www.youtube.com/",
+      "Iterations": 100,
+      "Eth": "University Network RUWirelessSec",
+      "Data": {
+        "Total Duration": 8242.636000002027,
+        "Resource Time": 2584.262000004649,
+        "Redirect Time": 0,
+        "Worker Time": 1530.545000002384,
+        "DNS Lookup": 0,
+        "TCP Handshake": 596.8069999986888,
+        "Request Time": 399.69,
+        "Typical RTT": 454.3290000039339,
+        "Response Time": 54.63900000393391,
+        "DOM Time": 5642.071999999284,
+        "DOM Content Load": 0.056999996304512024,
+        "Load Event Time": 0.7660000002384186,
+        "Cache Time": 0,
+        "Transfer Size": 3391.66
+      }
+    },
+    {
+      "Website": "https://www.tiktok.com/",
+      "Iterations": 100,
+      "Eth": "University Network RUWirelessSec",
+      "Data": {
+        "Total Duration": 11660.536000002623,
+        "Resource Time": 1705.2660000050068,
+        "Redirect Time": 1094.1200000023841,
+        "Worker Time": 1095.1780000072717,
+        "DNS Lookup": 0,
+        "TCP Handshake": 0,
+        "Request Time": 525.1889999991655,
+        "Typical RTT": 607.1260000008344,
+        "Response Time": 81.93700000166893,
+        "DOM Time": 9221.424000002742,
+        "DOM Content Load": 0.06400000095367432,
+        "Load Event Time": 2.365999999642372,
+        "Cache Time": 0,
+        "Transfer Size": 45736.05
+      }
+    }
+  ]
+}

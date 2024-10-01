@@ -1,0 +1,13 @@
+{
+  "website": "https://d3kvoglf1begop.cloudfront.net",
+  "standard": {
+    "iterations": 50,
+    "upload": 8371.36599998951,
+    "download": 3794.2459999966622
+  },
+  "tor": {
+    "iterations": 50,
+    "upload": 85404.01599998712,
+    "download": 64683.303999996184
+  }
+}

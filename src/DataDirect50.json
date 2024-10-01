@@ -1,0 +1,104 @@
+{
+  "Websites": [
+    {
+      "Website": "https://reddit.com",
+      "Iterations": 50,
+      "Data": {
+        "Total Duration": 143.37800000190734,
+        "Resource Time": 88.21799999713897,
+        "Redirect Time": 0,
+        "Worker Time": 47.9480000090599,
+        "DNS Lookup": 9.393999991416932,
+        "TCP Handshake": 19.52200001716614,
+        "Request Time": 7.664000005722046,
+        "Typical RTT": 9.088000001907348,
+        "Response Time": 1.4239999961853027,
+        "DOM Time": 26.033999998569488,
+        "DOM Content Load": 0.12600000619888305,
+        "Load Event Time": 0.010000002384185792,
+        "Cache Time": 1.735999994277954,
+        "Transfer Size": 1785
+      }
+    },
+    {
+      "Website": "https://wikipedia.com",
+      "Iterations": 50,
+      "Data": {
+        "Total Duration": 758.4920000123977,
+        "Resource Time": 155.9760000038147,
+        "Redirect Time": 0,
+        "Worker Time": 91.82800000667572,
+        "DNS Lookup": 8.266000008583068,
+        "TCP Handshake": 28.52400000333786,
+        "Request Time": 21.572000002861024,
+        "Typical RTT": 25.221999998092652,
+        "Response Time": 3.6499999952316284,
+        "DOM Time": 7.986000010967254,
+        "DOM Content Load": 2.138000018596649,
+        "Load Event Time": 0.02000000238418579,
+        "Cache Time": 1.6819999885559083,
+        "Transfer Size": 25988
+      }
+    },
+    {
+      "Website": "https://apple.com",
+      "Iterations": 50,
+      "Data": {
+        "Total Duration": 1623.9239999961853,
+        "Resource Time": 166.92800000190735,
+        "Redirect Time": 0,
+        "Worker Time": 45.10600000143051,
+        "DNS Lookup": 8.38800000667572,
+        "TCP Handshake": 24.572000000476837,
+        "Request Time": 73.73400000095367,
+        "Typical RTT": 86.28199999570846,
+        "Response Time": 12.547999994754791,
+        "DOM Time": 199.53399999618532,
+        "DOM Content Load": 0.34000000476837156,
+        "Load Event Time": 0.3679999923706055,
+        "Cache Time": 1.9559999918937683,
+        "Transfer Size": 44935
+      }
+    },
+    {
+      "Website": "https://yelp.com",
+      "Iterations": 50,
+      "Data": {
+        "Total Duration": 1631.9760000061988,
+        "Resource Time": 614.6419999957085,
+        "Redirect Time": 0,
+        "Worker Time": 97.8260000038147,
+        "DNS Lookup": 9.251999998092652,
+        "TCP Handshake": 18.537999999523162,
+        "Request Time": 478.4940000104904,
+        "Typical RTT": 487.1160000038147,
+        "Response Time": 8.62199999332428,
+        "DOM Time": 720.3579999995231,
+        "DOM Content Load": 0.13000000953674318,
+        "Load Event Time": 0.6280000042915345,
+        "Cache Time": 1.5399999976158143,
+        "Transfer Size": 34277.28
+      }
+    },
+    {
+      "Website": "https://pinterest.com",
+      "Iterations": 50,
+      "Data": {
+        "Total Duration": 928.03,
+        "Resource Time": 312.09200000047684,
+        "Redirect Time": 0,
+        "Worker Time": 88.26400000095367,
+        "DNS Lookup": 8.379999995231628,
+        "TCP Handshake": 19.376000001430512,
+        "Request Time": 165.37000000476837,
+        "Typical RTT": 193.83399999856948,
+        "Response Time": 28.463999993801117,
+        "DOM Time": 505.26999998807906,
+        "DOM Content Load": 0.07800000429153442,
+        "Load Event Time": 0.004000000953674317,
+        "Cache Time": 1.8100000047683715,
+        "Transfer Size": 54816.58
+      }
+    }
+  ]
+}
